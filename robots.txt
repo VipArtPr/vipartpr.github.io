@@ -8,6 +8,7 @@ User-agent: Googlebot
 Allow: /
 
 Sitemap: https://vipartpr.github.io/sitemap.xml
-https://vipartpr.github.io/sitemap-telegraf.xml
+https://vipartpr.github.io/sitemaptelegraf.xml
 
 Host: https://vipartpr.github.io
+
