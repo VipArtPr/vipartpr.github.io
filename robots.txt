@@ -10,5 +10,3 @@ Allow: /
 Sitemap: https://vipartpr.github.io/sitemap.xml
 Sitemap: https://vipartpr.github.io/sitemap-telegraf.xml
 Sitemap: https://vipartpr.github.io/sitemap-dzen.xml
-
-Host: https://vipartpr.github.io
