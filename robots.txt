@@ -11,3 +11,4 @@ Sitemap: https://vipartpr.github.io/sitemap.xml
 Sitemap: https://vipartpr.github.io/sitemap-telegraf.xml
 Sitemap: https://vipartpr.github.io/sitemap-dzen.xml
 Sitemap: https://vipartpr.github.io/sitemap-subscribe.xml
+Sitemap: https://vipartpr.github.io/sitemap-telegraf-krismas.xml
