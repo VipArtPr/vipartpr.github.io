@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://vipartpr.github.io/sitemap.xml
+Sitemap: https://vipartpr.github.io/sitemap-telegraf.xml
+Sitemap: https://vipartpr.github.io/sitemap-dzen.xml
+Sitemap: https://vipartpr.github.io/sitemap-subscribe.xml
+Sitemap: https://vipartpr.github.io/sitemap-tumblr.xml
+Sitemap: https://vipartpr.github.io/sitemap-wordpress.xml
+Sitemap: https://vipartpr.github.io/sitemap-telegraf-krismas.xml
