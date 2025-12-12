@@ -16,4 +16,3 @@ Sitemap: https://vipartpr.github.io/sitemap-wordpress.xml
 Sitemap: https://vipartpr.github.io/sitemap-blogspot.xml
 Sitemap: https://vipartpr.github.io/sitemap-ucoz.xml
 Sitemap: https://vipartpr.github.io/sitemap-boosty.xml
-Sitemap: https://vipartpr.github.io/sitemap-telegraf-krismas.xml
